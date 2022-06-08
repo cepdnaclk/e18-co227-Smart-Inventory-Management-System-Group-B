@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
+repository-name: e18-co227-Smart-Inventory-Management-System-Group-B
 title:
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Smart Inventory Management System
 
 ---
 
@@ -19,9 +19,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/147, JAMEEL S., [e18147@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/18/242, NIMNADI J.A.S., [e18242@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/18/379, WANDURAGALA T.D.B., [e18379@eng.pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
