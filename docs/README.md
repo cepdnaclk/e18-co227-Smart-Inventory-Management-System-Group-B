@@ -49,7 +49,6 @@ Solution: Send scheduled reminders to the technical officers in charge of the la
 
 ![Sample Image](./images/lab_view.jpg)
 
-.....
 
 ## Links
 
