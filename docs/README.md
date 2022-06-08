@@ -33,6 +33,7 @@ title:
 
 #### The features of the system aim to solve the following problems
 
+---
 
 ##### Problem 1: Loosing track of items available in the laboratory
 Solution: Maintain an inventory in the system
