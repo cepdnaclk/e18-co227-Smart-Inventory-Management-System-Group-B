@@ -50,6 +50,11 @@ Solution: Send scheduled reminders about maintenance tasks to the technical offi
 ![Sample Image](./images/lab_view.jpg)
 
 
+#### A station in the lab
+
+![Sample Image](./images/station.jpg)
+
+
 ## Links
 
 - [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
