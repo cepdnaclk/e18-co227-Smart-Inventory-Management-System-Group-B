@@ -46,6 +46,7 @@ Solution: Send scheduled reminders about maintenance tasks to the technical offi
 
 ## Other Sub Topics
 
+
 #### The layout of the MakerSpace lab
 
 ![Sample Image](./images/lab_view.jpg)
