@@ -2,6 +2,4 @@ ___
 # DOCUMENTAION: SMART INVENTORY MANAGEMENT SYSTEM
 ___
 
-## Please refer the instructions in below URL:
-
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+## The implementation of the project is at  https://github.com/cepdnaclk/smart-inventory-management-system
