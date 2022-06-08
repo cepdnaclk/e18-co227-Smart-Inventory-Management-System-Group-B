@@ -30,13 +30,15 @@ title:
 
 ## Introduction
 
-### The features of the system aim to solve the following problems
+
+### The features of the system aim to solve the following problems</br>
+
 
 #### Problem 1: Loosing track of items available in the laboratory
 Solution: Maintain an inventory in the system
 
 #### Problem 2: Scheduling the resources in the lab
-Solution: Allow students/ lecturers to make reservations online for a particuar station of the lab
+Solution: Allow students/ lecturers to make reservations online for a particuar station in the lab
 
 #### Problem 3: Maintaining the resources in the lab
 Solution: Send scheduled reminders to the technical officers in charge of the lab
