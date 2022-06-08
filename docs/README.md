@@ -45,6 +45,10 @@ Solution: Send scheduled reminders to the technical officers in charge of the la
 
 ## Other Sub Topics
 
+#### The layout of the MakerSpace lab
+
+![Sample Image](./images/cover_page.jpg)
+
 .....
 
 ## Links
