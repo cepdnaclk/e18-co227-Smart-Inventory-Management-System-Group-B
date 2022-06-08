@@ -17,9 +17,9 @@ title:
 
 
 ## Team
--  E/18/147, JAMEEL S., [e18147@eng.pdn.ac.lk](mailto:name@email.com)
--  E/18/242, NIMNADI J.A.S., [e18242@eng.pdn.ac.lk](mailto:name@email.com)
--  E/18/379, WANDURAGALA T.D.B., [e18379@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/18/147, JAMEEL S.  [e18147@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/18/242, NIMNADI J.A.S.  [e18242@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/18/379, WANDURAGALA T.D.B.  [e18379@eng.pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
