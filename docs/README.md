@@ -31,7 +31,7 @@ title:
 ## Introduction
 
 
-### The features of the system aim to solve the following problems</br>
+### The features of the system aim to solve the following problems<br />
 
 
 #### Problem 1: Loosing track of items available in the laboratory
