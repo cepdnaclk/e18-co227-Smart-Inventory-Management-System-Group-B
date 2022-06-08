@@ -41,7 +41,7 @@ Solution: Maintain an inventory in the system
 Solution: Allow students/ lecturers to make reservations online for a particuar station in the lab
 
 ##### Problem 3: Maintaining the resources in the lab
-Solution: Send scheduled reminders to the technical officers in charge of the lab
+Solution: Send scheduled reminders about maintenance tasks to the technical officers in charge of the lab
 
 ## Other Sub Topics
 
