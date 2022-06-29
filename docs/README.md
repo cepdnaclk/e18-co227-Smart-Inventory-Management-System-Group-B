@@ -36,29 +36,29 @@ title:
 
 #### About
 
-Scheduling and maintaining assets are important in an engineering laboratory, of for that matter any laboratory. Keeping track of the usage of all the tools manually is not easy, nor efficient. Hence, we now see that there are many automated systems used in labs to assist activties. 
+Scheduling and maintaining assets are important in an engineering laboratory, or for that matter in any laboratory. Keeping track of the usage of all the tools manually is not easy, nor efficient. Hence, we now see that there are many automated systems used in labs to assist it with its activties. 
 
 #### Problem
 
-The most commonly used methods such as file systems, etc are hard to maintain and are often not continued. Therefore, in a lab, you loose track of the items available, and as a result they will not be maintained properly. 
-Traditional laboratories also do not allow for resource scheduling. There are times when students come to the lab with the hope of using a particular machine or tool and find that it is being used by another person. This could happen to you everytime you go to the lab intending to use that instrument. It is never vacant.
-Thus, we see that traditional laborities have no proper scheduling methods, that lead to the waste of time and resources.
+The most commonly used methods for inventory management such as file systems are hard to maintain and are often not updated frequently. In a lab therefore, you tend to loose track of the items available, and as a result not maintain them properly. 
+Traditional laboratories also do not have facilities to make reservations in the lab. There are times when students come to the lab with the hope of using a particular machine or tool and find that it is being used by another person. This could happen to you everytime you go to the lab intending to use that instrument. You never find it vacant.
+Having no proper scheduling system leads to the waste of time and resources.
 
 ##### Solution
 
-In response to the problems identified, we introduce a smart inventory management system with resource scheduling and maintenance scheduling. This system maintains an inventory of all tools in the lab and allows students/ lecturers to view and make reservations online for a particular item.
-Additionally, the system is designed to sen scheduled reminders to the technical officers in charge of the lab about maintanance tasks to be carried out. 
+We introduce a smart inventory management system with resource scheduling and maintenance task scheduling. This system maintains an inventory of all tools in the lab and allows students/ lecturers to view and make reservations online for a particular item.
+Additionally, the system is designed to send scheduled reminders to the technical officers in charge of the lab about maintanance tasks that need to be carried out. 
 
 
 ## Solution Architecture
 ---
 
-The Web Applciation is hosted using a remote server. The web system can be accessed by all user groups. Upon login, the users can access relevant pages according to the defined control flow. Accordingly, Guests, regular users(students), admins/ maintainers will be directed to their relevant pages of the site.
-Thereafter, the users will be able to use the system as per their requirements to make/ view reservations for a particular station in the laboratory. 
+The Web Applciation is hosted using a remote server. The web system can be accessed by all user groups. Upon login, the users can access relevant pages according to the defined control flow. Accordingly, Guests, regular users(students), admins/ maintainers will be directed to their relevant pages in the site.
+The users will thereafter be able to use the system to make/ view reservations for a particular station in the laboratory. 
 
 ![Sample Image](./images/SolArchScheduling.png)
 
-To assist technical officers, the system allows a maintainer/ admin of the web system to add relevant maintenance tasks for all the tools in the lab. These tasks will also be scheduled to be done on specific dates. As such, an automated reminder will be sent to the relevant technical officer about his/ her work that needs to be done on a given day.
+To assist technical officers, the system allows a maintainer/ admin of the web system to add relevant maintenance tasks for all the tools in the lab. These tasks will also be scheduled to be done on specific dates. An automated reminder will be sent to the relevant technical officer about his/ her work that needs to be done on a given day.
 
 ![Sample Image](./images/SolArchMaintenance.png)
 
