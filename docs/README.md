@@ -53,9 +53,11 @@ Additionally, the system is designed to sen scheduled reminders to the technical
 The Web Applciation is hosted using a remote server. The web system can be accessed by all user groups. Upon login, the users can access relevant pages according to the defined control flow. Accordingly, Guests, regular users(students), admins/ maintainers will be directed to their relevant pages of the site.
 Thereafter, the users will be able to use the system as per their requirements to make/ view reservations for a particular station in the laboratory. 
 
-![Sample Image](./images/cover_page.jpg)
+![Sample Image](./images/SolArchScheduling.png)
 
+To assist technical officers, the system allows a maintainer/ admin of the web system to add relevant maintenance tasks for all the tools in the lab. These tasks will also be scheduled to be done on specific dates. As such, an automated reminder will be sent to the relevant technical officer about his/ her work that needs to be done on a given day.
 
+![Sample Image](./images/SolArchScheduling.png)
 
 
 ## Other Sub Topics
