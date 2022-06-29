@@ -23,11 +23,12 @@ title:
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
-3. [Solution Architecture](#solution-architecture)
-4. [Data Flow](#data-flow)
-5. [ER Diagram](#er-diagram)
-6. [Links](#links)
+2. [Solution Architecture](#solution-architecture)
+3. [Data Flow](#data-flow)
+4. [ER Diagram](#er-diagram)
+5. [Relational Schema](#relational-schema)
+6. [Other](#other)
+7. [Links](#links)
 
 
 ## Introduction
@@ -87,15 +88,15 @@ To assist technical officers, the system allows a maintainer/ admin of the web s
 ![Sample Image](./images/RelationalSchema.png)
 
 
-## Other Sub Topics
+## Other
 ---
 
-#### The layout of the MakerSpace lab
+##### The layout of the MakerSpace lab
 
 ![Sample Image](./images/lab_view.jpg)
 
 
-#### A station in the lab
+##### A station in the lab
 
 ![Sample Image](./images/station.jpg)
  
