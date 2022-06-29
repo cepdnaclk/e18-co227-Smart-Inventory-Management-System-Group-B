@@ -57,7 +57,7 @@ Thereafter, the users will be able to use the system as per their requirements t
 
 To assist technical officers, the system allows a maintainer/ admin of the web system to add relevant maintenance tasks for all the tools in the lab. These tasks will also be scheduled to be done on specific dates. As such, an automated reminder will be sent to the relevant technical officer about his/ her work that needs to be done on a given day.
 
-![Sample Image](./images/SolArchScheduling.png)
+![Sample Image](./images/SolArchMaintenance.png)
 
 
 ## Other Sub Topics
