@@ -2,5 +2,5 @@ ___
 # DOCUMENTAION: SMART INVENTORY MANAGEMENT SYSTEM
 ___
 
-## The implementation of the project is at,
-https://github.com/cepdnaclk/smart-inventory-management-system
+This wiki contains the documentation and details of the implementation. The project development is at https://github.com/cepdnaclk/smart-inventory-management-system
+
