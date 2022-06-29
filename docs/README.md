@@ -59,6 +59,11 @@ To assist technical officers, the system allows a maintainer/ admin of the web s
 
 ![Sample Image](./images/SolArchMaintenance.png)
 
+## Data Flow
+---
+
+![Sample Image](./images/SolArchMaintenance.png)
+
 
 ## Other Sub Topics
 ---
