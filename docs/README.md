@@ -24,13 +24,13 @@ title:
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Other Sub Topics](#other-sub-topics)
-3. [Links](#links)
+3. [Solution Architecture](#solution-architecture)
+4. [Links](#links)
 
----
 
 ## Introduction
-
 ---
+
 #### About
 
 Scheduling and maintaining assets are important in an engineering laboratory, of for that matter any laboratory. Keeping track of the usage of all the tools manually is not easy, nor efficient. Hence, we now see that there are many automated systems used in labs to assist activties. 
@@ -47,8 +47,18 @@ In response to the problems identified, we introduce a smart inventory managemen
 Additionally, the system is designed to sen scheduled reminders to the technical officers in charge of the lab about maintanance tasks to be carried out. 
 
 
-## Other Sub Topics
+## Solution Architecture
+---
 
+The Web Applciation is hosted using a remote server. The web system can be accessed by all user groups. Upon login, the users can access relevant pages according to the defined control flow. Accordingly, Guests, regular users(students), admins/ maintainers will be directed to their relevant pages of the site.
+Thereafter, the users will be able to use the system as per their requirements to make/ view reservations for a particular station in the laboratory. 
+
+![Sample Image](./images/cover_page.jpg)
+
+
+
+
+## Other Sub Topics
 ---
 
 #### The layout of the MakerSpace lab
