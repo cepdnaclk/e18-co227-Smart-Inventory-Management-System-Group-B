@@ -32,7 +32,7 @@ title:
 ## Introduction
 
 ---
-#### About
+                                                                              #### About
 
 Scheduling and maintaining assets are important in an engineering laboratory, of for that matter any laboratory. Keeping track of the usage of all the tools manually is not easy, nor efficient. Hence, we now see that there are many automated systems used in labs to assist activties. 
 
