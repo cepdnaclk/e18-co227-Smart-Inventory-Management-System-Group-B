@@ -65,6 +65,18 @@ To assist technical officers, the system allows a maintainer/ admin of the web s
 
 ![Sample Image](./images/dataflow.png)
 
+- Data can be entered by any user logged into the system.
+- The data inserted will be sent to the servers as raw input.
+- The data will be stored permenantly in the server and will be retrieved when needed to perform calculations.
+- Data will be sent from the servers to the system for displaying purposes.
+- For sending emails and for email verification, the SMTP serevr will be used.
+- No data requests/ responses will be sent from the SMTP server to the web system.
+- No data will be stored permenantly in the SMTP server.
+
+
+## ER Diagram
+
+
 
 ## Other Sub Topics
 ---
