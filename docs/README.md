@@ -25,7 +25,9 @@ title:
 1. [Introduction](#introduction)
 2. [Other Sub Topics](#other-sub-topics)
 3. [Solution Architecture](#solution-architecture)
-4. [Links](#links)
+4. [Data Flow](#data-flow)
+5. [ER Diagram](#er-diagram)
+6. [Links](#links)
 
 
 ## Introduction
@@ -75,6 +77,12 @@ To assist technical officers, the system allows a maintainer/ admin of the web s
 
 
 ## ER Diagram
+---
+
+![Sample Image](./images/ER_Diagram.png)
+
+## Relational Schema
+---
 
 
 
