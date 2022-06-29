@@ -24,15 +24,14 @@ title:
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Other Sub Topics](#other-sub-topics)
-3. [Other Sub Topics](#other-sub-topics)
-4. [Links](#links)
+3. [Links](#links)
 
 ---
 
 ## Introduction
 
 ---
-####                                                                               About
+#### About
 
 Scheduling and maintaining assets are important in an engineering laboratory, of for that matter any laboratory. Keeping track of the usage of all the tools manually is not easy, nor efficient. Hence, we now see that there are many automated systems used in labs to assist activties. 
 
