@@ -84,6 +84,7 @@ To assist technical officers, the system allows a maintainer/ admin of the web s
 ## Relational Schema
 ---
 
+![Sample Image](./images/RelationalSchema.png)
 
 
 ## Other Sub Topics
