@@ -44,7 +44,7 @@ The most commonly used methods for inventory management such as file systems are
 Traditional laboratories also do not have facilities to make reservations in the lab. There are times when students come to the lab with the hope of using a particular machine or tool and find that it is being used by another person. This could happen to you everytime you go to the lab intending to use that instrument. You never find it vacant.
 Having no proper scheduling system leads to the waste of time and resources.
 
-##### Solution
+#### Solution
 
 We introduce a smart inventory management system with resource scheduling and maintenance task scheduling. This system maintains an inventory of all tools in the lab and allows students/ lecturers to view and make reservations online for a particular item.
 Additionally, the system is designed to send scheduled reminders to the technical officers in charge of the lab about maintanance tasks that need to be carried out. 
