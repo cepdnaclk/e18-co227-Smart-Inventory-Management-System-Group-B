@@ -36,11 +36,11 @@ title:
 
 #### About
 
-Scheduling and maintaining assets are important in an engineering laboratory, or for that matter in any laboratory. Keeping track of the usage of all the tools manually is not easy, nor efficient. Hence, we now see that there are many automated systems used in labs to assist it with its activties. 
+Scheduling and maintaining assets are important in an engineering laboratory, or for that matter in any laboratory. Keeping track of the usage of all the tools manually is not easy, nor efficient. Hence, we now see that there are many automated systems used in labs to assist it with its activities. 
 
 #### Problem
 
-The most commonly used methods for inventory management such as file systems are hard to maintain and are often not updated frequently. In a lab therefore, you tend to loose track of the items available, and as a result not maintain them properly. 
+The most commonly used methods for inventory management such as file systems are hard to maintain and are often not updated frequently. In a lab therefore, you tend to lose track of the items available, and as a result not maintain them properly. 
 Traditional laboratories also do not have facilities to make reservations in the lab. There are times when students come to the lab with the hope of using a particular machine or tool and find that it is being used by another person. This could happen to you everytime you go to the lab intending to use that instrument. You never find it vacant.
 Having no proper scheduling system leads to the waste of time and resources.
 
