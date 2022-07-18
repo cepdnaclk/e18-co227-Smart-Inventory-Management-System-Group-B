@@ -47,7 +47,7 @@ Having no proper scheduling system leads to the waste of time and resources.
 #### Solution
 
 We introduce a smart inventory management system with resource scheduling and maintenance task scheduling. This system maintains an inventory of all tools in the lab and allows students/ lecturers to view and make reservations online for a particular item.
-Additionally, the system is designed to send scheduled reminders to the technical officers in charge of the lab about maintanance tasks that need to be carried out. 
+Additionally, the system is designed to send scheduled reminders to the technical officers in charge of the lab about maintenance tasks that need to be carried out. 
 
 
 ## Solution Architecture
