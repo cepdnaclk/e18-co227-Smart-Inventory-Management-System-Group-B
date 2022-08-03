@@ -58,10 +58,6 @@ The users will thereafter be able to use the system to make/ view reservations f
 
 ![Sample Image](./images/SolArchScheduling.png)
 
-To assist technical officers, the system allows a maintainer/ admin of the web system to add relevant maintenance tasks for all the tools in the lab. These tasks will also be scheduled to be done on specific dates. An automated reminder will be sent to the relevant technical officer about his/ her work that needs to be done on a given day.
-
-![Sample Image](./images/SolArchMaintenance.png)
-
 ## Data Flow
 ---
 
