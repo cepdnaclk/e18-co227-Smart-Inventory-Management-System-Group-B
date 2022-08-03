@@ -46,14 +46,12 @@ Having no proper scheduling system leads to the waste of time and resources.
 
 #### Solution
 
-We introduce a smart inventory management system with resource scheduling and maintenance task scheduling. This system maintains an inventory of all tools in the lab and allows students/ lecturers to view and make reservations online for a particular item.
-Additionally, the system is designed to send scheduled reminders to the technical officers in charge of the lab about maintenance tasks that need to be carried out. 
-
+Our project introduces a smart inventory management system with resource scheduling. This system maintains an inventory of all tools in the lab and allows students/ lecturers to view and make reservations online for a particular item.
 
 ## Solution Architecture
 ---
 
-The Web Applciation is hosted using a remote server. The web system can be accessed by all user groups. Upon login, the users can access relevant pages according to the defined control flow. Accordingly, Guests, regular users(students), admins/ maintainers will be directed to their relevant pages in the site.
+The Web Applciation is hosted using a remote server. The web system can be accessed by all user groups. Upon logging in, the users can access relevant pages according to the defined control flow. Accordingly, Guests, regular users(students), admins/ maintainers will be directed to their relevant pages in the site.
 The users will thereafter be able to use the system to make/ view reservations for a particular station in the laboratory. 
 
 ![Sample Image](./images/SolArchScheduling.png)
