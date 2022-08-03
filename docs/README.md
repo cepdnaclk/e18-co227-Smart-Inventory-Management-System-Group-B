@@ -97,8 +97,8 @@ The users will thereafter be able to use the system to make/ view reservations f
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{page.repository-name}}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{page.repository-name}}){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name }}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
