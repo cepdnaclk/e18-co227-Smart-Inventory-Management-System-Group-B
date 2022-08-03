@@ -79,7 +79,7 @@ The users will thereafter be able to use the system to make/ view reservations f
 ## Relational Schema
 ---
 
-![Sample Image](./images/RelationalSchema.png)
+![Sample Image](./images/relationalschema.png)
 
 
 ## Other
