@@ -54,7 +54,7 @@ Our project introduces a smart inventory management system with resource schedul
 The Web Applciation is hosted using a remote server. The web system can be accessed by all user groups. Upon logging in, the users can access relevant pages according to the defined control flow. Accordingly, Guests, regular users(students), admins/ maintainers will be directed to their relevant pages in the site.
 The users will thereafter be able to use the system to make/ view reservations for a particular station in the laboratory. 
 
-![Sample Image](./images/SolArchScheduling.png)
+![Sample Image](./images/solarch.png)
 
 ## Data Flow
 ---
